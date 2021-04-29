@@ -1,0 +1,9 @@
+C:\Users\howto\source\repos\Arduino Music Maker\Arduino Music Maker\bin\Debug\Arduino Music Maker.exe.config
+C:\Users\howto\source\repos\Arduino Music Maker\Arduino Music Maker\bin\Debug\Arduino Music Maker.exe
+C:\Users\howto\source\repos\Arduino Music Maker\Arduino Music Maker\bin\Debug\Arduino Music Maker.pdb
+C:\Users\howto\source\repos\Arduino Music Maker\Arduino Music Maker\obj\Debug\Arduino Music Maker.csprojAssemblyReference.cache
+C:\Users\howto\source\repos\Arduino Music Maker\Arduino Music Maker\obj\Debug\Arduino_Music_Maker.Form1.resources
+C:\Users\howto\source\repos\Arduino Music Maker\Arduino Music Maker\obj\Debug\Arduino_Music_Maker.Properties.Resources.resources
+C:\Users\howto\source\repos\Arduino Music Maker\Arduino Music Maker\obj\Debug\Arduino Music Maker.csproj.GenerateResource.cache
+C:\Users\howto\source\repos\Arduino Music Maker\Arduino Music Maker\obj\Debug\Arduino Music Maker.exe
+C:\Users\howto\source\repos\Arduino Music Maker\Arduino Music Maker\obj\Debug\Arduino Music Maker.pdb
